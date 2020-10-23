@@ -1,0 +1,1001 @@
+id,num,num5,num6,num7,num8,year,year2,boolean,boolean2,blank,City,City2
+1,40,,92,,38,2006,2010,false,false,,Zainsk,
+2,67,21,44,94,60,2005,2012,,true,,,Ivanec
+3,2,,38,,100,2008,1994,false,,,Vesëlyy,Jianshe
+4,63,66,95,,95,2012,,false,,,Banjar Asahduren,Baranoa
+5,,61,53,88,81,1993,,true,true,,La Guacamaya,Petrovskaya
+6,,67,34,,20,1964,,true,false,,Kuala Baru,Mladá Boleslav
+7,100,63,76,17,31,1994,,false,,,,Masaling
+8,29,,97,92,29,2009,2004,false,false,,Malasugui,San Juan
+9,65,13,37,29,5,2005,1999,false,,,Higashimurayama-shi,Dongping
+10,73,97,67,,46,2009,2006,false,false,,Vol’nyy Aul,Arras
+11,53,82,61,16,33,1983,2003,false,,,Vitarte,Memphis
+12,26,,77,62,58,1996,1995,true,true,,Fengle,Malaya Dubna
+13,,95,69,,27,2012,,false,true,,Sūq Şirwāḩ,Borovoy
+14,,85,79,84,10,2000,2012,true,false,,Huayan,
+15,44,25,62,,61,1999,1992,false,false,,Tsaghkadzor,Huainan
+16,11,97,20,95,89,1988,2001,,false,,Pangkalan,Si Sa Ket
+17,53,27,94,34,23,1996,1979,,false,,Kristiansand S,Yeliguan
+18,18,,89,75,56,2010,1996,,false,,Tundagan,Deskle
+19,58,,76,,76,1995,,false,false,,Xiaolin,Stettler
+20,42,53,54,16,35,2011,1995,true,false,,Fernando de Noronha (Distrito Estadual),Tondano
+21,,,79,11,49,1983,,true,true,,Al Karāmah,Houping
+22,32,46,42,6,17,2000,1972,false,false,,Novouzensk,Quellouno
+23,,74,68,,15,2007,2005,false,true,,Gutang,Emmaboda
+24,34,64,28,25,11,2001,2008,true,,,Göteborg,Shanglaxiu
+25,19,21,86,,15,2006,1993,false,,,Gaozhou,Dobre
+26,21,21,49,40,87,2004,2007,false,false,,,Vagos
+27,98,,17,7,57,1994,1985,true,true,,Sumberjati,Dayapan
+28,21,68,20,,54,2000,2009,true,true,,Jingdu,Korczew
+29,7,56,89,,93,2002,1966,,true,,Jatibonico,Bordeaux
+30,68,9,54,4,39,2009,,false,false,,Villa de Soto,Manay
+31,51,78,27,73,19,1992,2000,true,,,Jiangchi,Litvínovice
+32,62,,19,65,40,2006,1977,true,,,Kombandaru,Senneterre
+33,51,8,64,,65,1999,1995,false,false,,,Kỳ Anh
+34,19,43,42,73,13,1997,1967,,,,Gialo,Babakantonggoh
+35,77,23,11,,89,2005,2009,true,true,,Baoshan,Lunik
+36,21,,76,14,15,2006,1996,true,false,,Kamen’-na-Obi,Al ‘Anān
+37,83,8,60,,18,2004,2007,true,true,,Kuhmoinen,Songshan
+38,82,37,52,39,26,1998,,true,false,,Nam Som,Zhambyl
+39,25,88,94,34,8,1992,2005,false,,,Épernay,La Viña
+40,,90,1,50,38,1997,2009,,false,,Novo-Peredelkino,Qingfenglin
+41,61,6,9,88,26,2004,1994,false,false,,Huangzhai,Shuizhai
+42,1,97,76,6,76,1995,,false,false,,Norak,Oslo
+43,42,65,27,,54,2000,2009,false,false,,Barubandung,Żarów
+44,,74,20,,23,1990,2010,,true,,Pata,Putre
+45,,23,73,70,32,2004,2003,true,false,,Hūn,Ilopango
+46,,78,64,,50,2007,2007,false,true,,Changwon,Qiangtou
+47,30,,58,,78,2008,,false,true,,Liebu,Chennevières-sur-Marne
+48,39,,27,13,11,1994,2005,true,true,,Cerro Corá,Verrettes
+49,93,59,5,26,35,2011,2010,false,,,Perbaungan,Dāngām
+50,73,34,75,4,83,1995,,false,true,,Kaeng Khro,La Gloria
+51,44,42,80,,79,2008,1996,false,true,,Alannay,Untolovo
+52,14,15,8,,83,2007,2008,true,,,Taishihe,Capâo Bonito
+53,7,63,22,25,89,2003,,true,false,,Komsomolets,
+54,32,,12,94,19,1996,1993,true,,,El Zapotal del Norte,Delcevo
+55,73,88,37,48,96,2008,,false,false,,Starobin,Den Chai
+56,31,,78,,23,2003,2000,true,true,,Ettal,Colcabamba
+57,,69,67,,18,1989,,true,false,,Ugljevik,Tapan
+58,10,91,72,,83,1998,,true,,,,Temeke
+59,65,65,47,15,98,2000,2008,true,false,,Rennes,Cortez
+60,,,34,,78,2002,1989,false,false,,Jevišovice,Puerto López
+61,47,86,54,25,65,2006,2006,false,,,Fonte Boa da Brincosa,Hecun
+62,24,,52,,75,2002,2012,true,true,,Żoliborz,Kuangsan
+63,11,45,1,,28,2008,,true,true,,Waoundé,Huangzhawan
+64,80,59,58,73,65,1969,1986,false,true,,Victoria,Kamenka
+65,23,,11,,68,1995,2002,true,true,,Sūrak,Kangdong-ŭp
+66,19,93,53,39,81,2002,1993,true,false,,Vitry-sur-Seine,Baykit
+67,,35,81,,63,2002,1994,false,true,,Gagah,Krajan Winong
+68,62,28,13,,78,1987,,true,false,,Zhaolingpu,L'viv
+69,,14,21,,48,2012,1988,true,true,,Rosario,Portmore
+70,85,22,52,98,33,2007,2000,true,,,,Kavála
+71,80,19,34,,40,1990,2010,true,true,,Dagu,Homa Bay
+72,32,7,31,,37,2009,1995,true,false,,Phon Phisai,Khorugh
+73,12,18,88,,51,2000,,false,true,,Saint Ann’s Bay,Sanshan
+74,22,93,34,,79,2003,1993,true,false,,Rende,Shibganj
+75,87,35,90,,77,2003,2010,false,true,,,Oratorio
+76,85,30,64,,95,1994,1980,false,true,,København,Sanqishi
+77,31,,67,,77,2004,1994,,true,,Thị Trấn Yên Phú,Gabi
+78,82,84,40,10,60,1993,1992,true,true,,Dubravica,Corzuela
+79,,67,50,21,24,2007,2009,true,false,,Jianggu,Nyköping
+80,,5,73,,43,2003,1991,true,,,,Khonj
+81,27,39,35,75,6,2000,2004,true,,,Kirzhach,Wangwu
+82,48,89,41,,52,1986,2012,false,,,Wugong,
+83,,,58,,64,2009,2003,false,true,,Zuocun,Soca
+84,10,14,54,,36,1994,2008,true,true,,,Peachland
+85,46,14,43,37,76,2006,1997,true,true,,Figueiredo,Pushkinskiye Gory
+86,90,10,22,2,72,2009,1993,false,false,,Boca Raton,Ollantaytambo
+87,68,,54,54,13,1999,,true,false,,Portão,Boston
+88,93,44,42,,45,2008,2002,false,,,Södertälje,Norrköping
+89,28,83,24,54,54,1994,1997,false,true,,Utsunomiya-shi,Vřesina
+90,14,,61,4,85,2008,1999,false,false,,Kysyl-Syr,Xinshichang
+91,65,,59,,81,1996,2004,,,,Kavýli,København
+92,87,,20,,60,1999,2009,false,false,,Alacaygan,Palmira
+93,17,80,43,,8,1993,,false,true,,,Podstepki
+94,37,71,50,66,43,2002,,true,true,,Jiangjing,Kumo
+95,65,,17,,41,2010,,false,false,,Tanout,Sylvan Lake
+96,13,,49,97,52,2008,2003,false,true,,Phu Kam Yao,Vyborg
+97,33,5,78,,35,2008,,,true,,New Mīrpur,Myronivka
+98,37,25,3,,96,1998,2005,true,false,,Jujur,Senhor do Bonfim
+99,67,9,43,43,17,2012,1994,false,,,Linköping,Qarāwat Banī Zayd
+100,,,75,,45,2000,2007,false,false,,Ribas,Krasnotorka
+101,86,19,5,,65,2010,1997,true,true,,Guanzhou,Bolhos
+102,15,43,11,80,70,2005,1994,false,,,Ocaña,Ciego de Ávila
+103,13,57,23,,41,2002,2008,true,true,,Anār,Pombos
+104,55,,38,67,98,2010,1994,false,true,,,
+105,28,,66,26,10,2001,2005,true,,,Vallecillo,Rongmei
+106,48,68,96,,21,2008,1984,false,false,,Jianshan,Ami
+107,15,,17,17,57,1986,1994,false,true,,Mozdok,Ning’an
+108,77,35,58,77,2,1994,,false,false,,Sanhe,Pitanga
+109,,51,80,,31,2002,2007,true,true,,Toshloq,Oklahoma City
+110,13,90,67,,75,2002,,false,,,Lebak,Henghe
+111,49,22,57,,,2008,2007,false,,,Danzao,Mancos
+112,70,53,73,,34,1999,1992,,,,Az Zarqā,Smolyan
+113,,27,48,,18,2006,2008,true,,,Wulan,Jaruco
+114,55,,98,78,50,1997,2008,,false,,Krajanbonjor,Ayna
+115,74,87,83,,56,1992,2010,true,,,Kalabahi,Belén de Umbría
+116,23,56,70,,,1985,,,,,Banxi,Nizhniy Lomov
+117,20,35,58,66,85,1996,1994,false,,,Jambesari,Jungutbatu Kaja Dua
+118,35,51,44,50,48,1996,1995,true,true,,El Almendro,Kradinan
+119,39,23,19,16,94,1995,2008,false,false,,Kuching,Mancha Khiri
+120,57,53,30,,47,1999,1992,true,,,Baltiysk,Reforma
+121,91,,33,98,39,2004,1997,true,false,,Santiago,Wonokromo
+122,44,59,82,,100,2008,1999,true,false,,Honolulu,Drenova
+123,,93,87,,83,1997,2011,true,true,,Bull Savanna,Krajan Langenharjo
+124,92,,25,17,76,2009,2003,,true,,Arevshat,Krajan
+125,16,27,41,23,38,2005,2004,true,false,,Banjar Serangan,Gigant
+126,,,100,16,48,1999,2011,true,,,,Rongwo
+127,58,,89,55,5,2009,1996,true,false,,Kon Tum,Chvalšiny
+128,1,22,92,,47,2005,2008,true,true,,Chanika,Mali Iđoš
+129,3,,72,87,86,1995,1993,false,true,,Washington,Imulolong
+130,83,12,10,,61,1999,1999,true,true,,Lazaro Cardenas,
+131,,94,56,,68,2002,1997,false,false,,Tuanlin,
+132,46,47,18,31,24,1989,2010,false,true,,Ludgeřovice,Shamkhor
+133,87,77,53,,3,2005,,,true,,Houzhai,Batujaran
+134,,93,60,17,10,1990,1992,false,,,,Mondokan
+135,22,39,17,,1,1958,,false,false,,Czeremcha,Nis’oni
+136,,17,11,68,50,2010,2005,false,,,Anchau,Babakankalong
+137,,55,7,,,1994,2001,,,,Temirtau,Mtinko
+138,84,15,72,,33,1987,,,true,,Sarrat,Sasayama
+139,,80,11,,69,2005,2004,,,,Berlin,Buôn Ma Thuột
+140,53,38,87,,41,1972,1994,,true,,Krajan Karanganyar,Manūjān
+141,9,86,14,,15,2012,,false,,,Outeiro,Yimnón
+142,53,,79,,63,2003,,false,,,Luchegorsk,Anmore
+143,96,61,99,19,51,2006,2001,false,true,,Jeleuk,Niort
+144,35,24,70,,84,2010,2000,false,false,,Achiaman,Dayangzhou
+145,52,12,61,88,12,2012,2002,true,false,,Wonotirto,Atins
+146,29,47,82,,65,1997,,true,,,Petroúpolis,Timmins
+147,90,66,66,52,90,2003,,false,false,,Hongguang,
+148,73,6,58,74,87,1992,,true,,,,Waśniów
+149,79,27,61,,98,2011,2009,,true,,,Géfyra
+150,77,,20,95,29,2001,2005,false,false,,Dzhankoy,Shengping
+151,62,48,66,38,69,1998,2011,true,true,,,Don Mueang
+152,37,32,100,,8,2010,,,,,Stoczek Łukowski,Ajasse Ipo
+153,56,,87,,17,2006,2011,false,false,,Kuchurhan,
+154,31,64,95,9,5,1998,1999,false,true,,Leština,Olonets
+155,60,69,100,,77,1995,2001,true,,,Bantiran,Gunan
+156,5,,80,29,53,1993,1996,false,false,,Quilpué,Teslić
+157,87,63,62,,39,2006,2007,false,false,,Truskolasy,Gubskaya
+158,,14,76,,91,1995,1966,true,false,,Chidian,Penja
+159,92,24,92,93,6,2007,1998,false,true,,Kasserine,Kulonkali
+160,37,,25,28,72,1992,1968,false,false,,To’rtko’l Shahri,Sabandia
+161,57,,93,,66,2005,1994,,,,Passos,Malati
+162,72,35,78,39,52,2007,2012,true,true,,,Arujá
+163,88,19,3,58,66,1989,,false,true,,Praia da Vitória,Lunsar
+164,91,84,3,,96,2006,1998,false,true,,Dongjiahe,Norakert
+165,,57,11,,86,1993,2001,true,false,,Longquan,Layo
+166,56,54,52,,44,1993,1986,true,false,,Santa Cruz de El Seibo,Dārayyā
+167,5,,65,,74,2006,2009,true,false,,Lammi,Esso
+168,100,48,1,20,40,2001,1984,true,false,,Shuya,Det Udom
+169,26,,18,11,38,2000,2005,,true,,Poigar,Aricagua
+170,19,77,40,22,98,1988,2005,,false,,El Refugio,Ifakara
+171,66,,20,,,2003,1989,false,,,Chengguan,Villa Aglipay
+172,46,,7,95,79,1987,2008,true,true,,Puntaru,Cabo de Vila
+173,20,,68,,75,2004,1986,true,true,,Huangben,
+174,,10,43,,98,1999,2008,true,false,,Benger,Sanmiaoqian
+175,4,,73,95,86,2006,1995,false,true,,Huangmei,Jiji
+176,6,55,43,22,89,2000,2008,false,,,Raffingora,Krajanbonjor
+177,19,56,11,79,45,1992,1979,true,false,,Haoxue,Mvomero
+178,29,41,82,,20,2002,,true,false,,Flen,Aquiraz
+179,59,44,28,38,41,2005,1988,true,,,Gonça,Xiangtan
+180,50,14,81,8,24,2004,1988,false,,,Xiaolin,Jinshan
+181,86,69,21,,94,2011,2007,true,,,Chizhou,Ewarton
+182,13,90,24,3,61,2000,,true,,,Yantak,São Sepé
+183,89,,97,,25,2003,2001,true,true,,Staryy Sambor,La Sabana
+184,22,,43,96,23,1990,2002,false,true,,Kuče,Candelaria
+185,93,71,100,47,9,2005,2001,false,false,,,Makurdi
+186,73,55,80,21,41,2000,2000,true,true,,Meghrashen,Bariri
+187,42,11,41,,49,2006,2008,true,false,,Dayton,Chengxiang
+188,81,98,81,,11,1990,2005,true,,,,Wanling
+189,56,65,34,,53,2001,1991,true,false,,Maliq,Ribeira Grande
+190,,45,82,,47,2008,2007,false,true,,Binguang,Baykonyr
+191,,5,92,,20,2005,2012,true,true,,Shangani,Kalynivka
+192,64,67,88,,32,2008,1995,true,true,,Sokolac,Atamanovka
+193,62,95,27,28,93,2005,2002,false,false,,,Mae Ramat
+194,72,44,85,55,39,2011,2002,true,false,,Lebel-sur-Quévillon,Devin
+195,7,28,90,84,50,2005,1998,false,false,,Krasnokholm,Huangtu
+196,,73,55,89,73,2007,1993,true,true,,Bla,Kidal
+197,,14,45,,1,1997,1967,true,false,,Sundbyberg,Uptar
+198,96,,68,73,52,1996,2007,false,true,,,Klenak
+199,1,57,95,,99,2003,2002,true,true,,Vanves,Iwade
+200,13,46,44,,61,2001,1996,true,true,,Galleh Manda,Kharkiv
+201,32,,94,30,72,2007,1996,false,false,,,Strohonivka
+202,92,89,6,42,38,2011,1984,false,false,,Yuta,Vera
+203,1,93,43,95,52,2011,2008,true,false,,Houndé,Birendranagar
+204,60,52,13,,65,2000,2012,false,false,,Cotuí,Bayt Sāḩūr
+205,90,2,14,22,92,2008,2000,false,false,,Andrézieux-Bouthéon,Lianglin
+206,13,48,16,43,6,2002,1990,false,true,,Shimen,
+207,57,69,65,68,92,2007,2011,false,,,Jorong,Rouen
+208,,13,84,36,3,2007,2011,,true,,,Shuangnian
+209,69,66,48,,72,2005,2010,,false,,Xinminxiang,Weyburn
+210,83,60,97,,41,1986,2001,false,true,,Sigiriya,Lyudinovo
+211,34,,94,3,7,2011,2002,,false,,Bultfontein,Tipitapa
+212,92,,1,,90,1995,2008,true,true,,Nikol’sk,Józefów
+213,67,90,84,,90,1997,1988,,false,,Xuanhua,Mahanoro
+214,37,72,9,,38,2009,1992,true,false,,Santa Cruz,Tame
+215,,8,58,28,35,2008,1988,true,false,,Sananduva,Riosucio
+216,73,17,63,3,68,2007,,false,,,Sagua de Tánamo,Solna
+217,,28,95,,33,2009,2006,true,true,,,Chunhu
+218,40,58,34,35,62,1993,,true,true,,Santa Cruz,Huaquillas
+219,88,85,70,87,13,1999,2006,true,false,,Jianshe,Tacoma
+220,27,,28,12,7,1988,1988,false,true,,Santo Niño,Shuiquan
+221,14,57,58,,24,2006,2006,true,true,,Dimitrovgrad,Maicao
+222,97,78,2,34,63,2004,1998,false,false,,Coripata,Granada
+223,13,,75,,,1984,2009,true,false,,Sadov,Ţalkhā
+224,36,,80,,,1997,1996,,false,,Pomar,Portland
+225,68,90,35,77,19,1993,2001,false,,,Pines,Osoyoos
+226,4,80,57,94,18,1988,2007,true,,,Bibis,Xiaheqing
+227,59,58,83,,21,1998,2004,false,,,Besançon,Namangan Shahri
+228,21,14,65,91,72,2008,1991,false,false,,Naḥf,Jawand
+229,,,34,,96,2010,2007,true,true,,,Huaitu
+230,16,10,66,,97,1967,2009,false,true,,Lazaro Cardenas,Novokhovrino
+231,11,,12,74,53,1992,2011,false,false,,Saga,Chernomorskiy
+232,21,12,71,,93,1986,1985,false,false,,Mutatá,
+233,67,,1,46,77,2009,2001,true,,,Cotabato,Couço
+234,83,24,67,61,33,1992,2009,true,,,Curitibanos,Baolong
+235,69,,47,81,87,2013,,false,,,As Suqaylibīyah,Rejoyoso
+236,43,28,83,94,48,2002,2005,true,true,,Taremskoye,Bastia
+237,13,74,71,52,4,2012,2005,true,true,,Orléans,Ghazni
+238,54,82,67,,,2009,1995,true,false,,Thủ Thừa,
+239,70,24,14,77,41,1998,2000,false,false,,Isulan,Fruitvale
+240,26,,53,57,4,1992,1997,true,true,,Novopavlovsk,Jiangcheng
+241,82,37,6,85,31,2007,1997,true,false,,Khairpur,Xishui
+242,3,14,36,77,4,2009,2010,false,false,,Rustāq,Novaya Igirma
+243,34,63,45,,3,1988,2011,true,true,,Rurrenabaque,Tsyelyakhany
+244,,61,17,44,34,2005,2009,true,,,Norsborg,Sukaraja
+245,14,8,6,12,78,1990,2002,true,,,Zibreira,Unión
+246,,85,9,,91,2012,2005,true,true,,San Carlos,Lenger
+247,97,98,82,,93,2009,1984,false,false,,,Vredendal
+248,64,,28,,44,2004,1998,false,false,,Mendez-Nuñez,Toungo
+249,58,,80,,90,1997,,true,false,,Síkinos,Sierpc
+250,93,87,60,,22,1998,2001,,,,Roches Noire,Volksrust
+251,55,35,47,,47,2004,2011,false,true,,Caldelas,Simpang
+252,46,,43,68,83,1999,2002,false,,,,Sambong
+253,24,57,33,,25,1989,2002,,true,,San Francisco,Banqiaodian
+254,28,47,34,,15,1992,,false,true,,,Mesker-Yurt
+255,39,43,75,95,18,2007,1998,false,false,,Xinba,Lanyi
+256,60,77,23,,3,2001,1997,false,false,,Alverca do Ribatejo,Le Hochet
+257,38,22,43,1,57,1993,,true,,,Dongbatu,Hengfan
+258,37,,16,23,23,2003,2006,false,true,,,Kotovs’k
+259,79,,88,31,4,2002,1994,true,,,,Luocun
+260,65,31,55,37,65,2004,2002,false,false,,Icheon-si,Hanyuan
+261,81,39,9,,61,1998,1994,true,,,Bāmyān,Patquía
+262,52,63,72,,46,1995,1993,false,false,,Kurye,Káto Glikóvrisi
+263,15,82,60,,,2010,1967,true,true,,Jēkabpils,Chemodanovka
+264,56,26,58,,55,2013,1990,false,false,,Bedford,Viligili
+265,72,,88,,18,2003,2005,true,true,,Retenggoma,Petropavlovskaya
+266,82,39,10,,95,2008,2004,true,,,Kuala Terengganu,Malgobek
+267,,,47,,89,1995,,true,false,,Villa Ocampo,Oebaki
+268,2,76,84,,79,1994,1990,false,false,,Malianzhuang,Viso
+269,99,,79,,35,2011,1993,true,,,Changtan,Bambas
+270,37,56,89,,97,2011,,true,false,,Lapas,Al Maţarīyah
+271,,22,14,,86,2010,2012,false,false,,Pradera,Puerta de Corral Quemado
+272,95,,47,,85,1998,,true,,,Solikamsk,Skelivka
+273,35,92,85,68,11,2012,2012,,,,Shuishaping,Póvoa
+274,,81,68,,17,2004,1992,false,false,,Koslan,Qom
+275,13,25,19,76,2,1993,1993,true,false,,Zhongzhai,Benavila
+276,50,74,79,83,1,2007,2001,true,true,,Gnieżdżewo,Krajan Satu
+277,4,98,73,72,58,2006,1999,false,,,Cibinong,Huskvarna
+278,31,62,55,66,4,1997,2006,false,,,Karlskoga,Helmas
+279,56,57,96,,79,2008,1994,false,false,,Arnage,Hankasalmi
+280,14,28,14,44,18,2002,1909,false,,,Soukkouma,Xiaping
+281,21,,2,,37,1991,2008,false,,,Buinsk,Kunyang
+282,100,2,17,,26,1997,2003,false,false,,Sydney,Changzheng
+283,49,79,56,,85,2003,1995,false,false,,Latowicz,Mbale
+284,4,,37,,39,2005,1992,false,true,,Sabtang,Leran
+285,98,,74,,19,2011,1995,true,true,,Pringgoboyo,
+286,35,22,26,,,1995,,false,true,,Wailang,Dukla
+287,79,20,23,31,45,2012,2007,,false,,Hradec Králové,Windsor
+288,55,8,77,53,50,2011,,true,false,,Romny,Aquin
+289,34,60,84,55,23,1993,1997,false,true,,Castainço,
+290,32,99,20,,66,1992,,false,,,,Priiskovyy
+291,23,44,91,,60,2008,2003,true,true,,,Alvito de São Pedro
+292,98,37,33,,44,2000,1993,false,true,,Xiangshui,Wang Hin
+293,48,46,19,40,98,1993,2010,false,true,,,L'Aigle
+294,82,84,51,,70,1989,1997,false,true,,,Aozou
+295,90,,100,11,23,1996,2005,true,false,,Cezi,Jidong
+296,47,62,85,41,81,1992,2005,false,true,,Pakemitan,Bengubelan
+297,44,15,6,,36,2012,2011,true,,,Mekarsari,Tyresö
+298,90,92,12,,54,2007,2009,,true,,Khabarovsk,Lākshām
+299,65,66,24,,5,2008,1978,false,,,Guarumal,Wola Rębkowska
+300,90,13,82,,32,2008,1994,,false,,Ábidos,Cocobeach
+301,94,,74,23,77,2002,1960,false,false,,Vila Moreira,Mossoró
+302,39,97,40,,3,2011,1965,true,false,,Mîndreşti,Jakšić
+303,100,,50,,38,2003,1992,true,true,,Senta,Huangshi
+304,,79,68,8,27,1983,1995,true,false,,Grekan,Landskrona
+305,71,,87,63,37,2002,2008,true,,,,Lap Lae
+306,20,94,63,77,80,1994,1991,true,false,,Tolosa,Ambatondrazaka
+307,93,53,35,,2,1992,1997,true,,,Zumiao,Brejos
+308,14,18,53,20,17,1993,2005,true,true,,Karanyowka,Uchaly
+309,22,,62,,24,2010,2008,false,true,,Pule,Patsi
+310,,8,87,8,22,1995,2008,true,false,,Karlstad,Brylivka
+311,71,78,24,,89,2012,2003,true,true,,Matelândia,
+312,6,48,90,76,32,1993,,true,true,,Shalamzār,Qaryat ad Da‘īs
+313,52,84,43,,18,1992,,,false,,Sa Kaeo,Guan’e
+314,83,62,19,,89,2003,2009,true,false,,Shazikou,Cambita Garabitos
+315,16,,21,,67,2011,2010,true,,,Ljupina,Chambéry
+316,24,88,2,,25,1995,,true,,,Negla,Ban Dung
+317,41,69,44,78,24,2005,2000,false,true,,San Agustín,Chezhan
+318,44,43,5,79,90,2002,2003,false,,,,Lápas
+319,45,61,4,,94,1997,2008,false,,,Liangli,Bhamo
+320,34,61,79,5,59,2012,1996,false,true,,,Minador do Negrão
+321,31,,28,,,2000,1995,true,true,,Catujal Velho,Chachoengsao
+322,69,45,30,10,56,1994,2000,true,false,,Jahāniān Shāh,Colomi
+323,36,53,46,,38,2000,2001,false,false,,Mina de São Domingos,Aniva
+324,33,37,3,,2,2000,2003,true,true,,Lianzhu,Haolaishan
+325,10,71,8,,89,1995,1996,true,,,Thành Phố Nam Định,Kakamas
+326,38,1,67,,6,1997,,false,false,,Vista Hermosa,Markušica
+327,67,7,84,65,6,1995,2005,false,false,,Istres,
+328,84,,53,,47,2003,2006,false,true,,,Garnich
+329,44,21,78,,57,1996,1987,true,,,Gangmei,San José
+330,,45,75,,43,2013,2002,true,false,,Fuyang,Mafra
+331,20,,4,,66,1999,1989,,true,,Chợ Lầu,Bolian
+332,59,53,96,48,18,1998,2001,true,true,,Bunol,Mörön
+333,15,52,78,,45,1999,,true,false,,Klole,Raci Kulon
+334,96,,59,97,5,1997,,false,true,,Esigodini,Krimpen aan den IJssel
+335,67,81,28,31,4,2003,2011,true,false,,,Sanshui
+336,40,65,75,64,71,1997,2006,false,,,Charlottesville,Charyshskoye
+337,,44,77,,32,2003,,true,false,,Vila Verde,Jincheng
+338,82,40,55,,72,2010,1996,true,true,,Philadelphia,Glugur Tengah
+339,23,12,65,53,51,2009,1992,true,false,,Jatake,Matsubara
+340,96,96,19,63,27,1993,1985,false,false,,Dabou,Jefferson City
+341,24,46,54,,87,1993,2004,false,true,,Hualin,Clermont-Ferrand
+342,,36,90,37,24,2006,1994,false,false,,Ludvika,Tianta
+343,46,87,12,45,54,2012,1993,false,false,,Nosy Varika,Salogon
+344,43,80,50,,28,1988,,true,,,Kotingnatagete,Calasgasan
+345,15,,68,,49,2007,2000,true,true,,,Jilin
+346,11,,55,10,37,2008,2002,true,false,,Nizhnevartovsk,Cloyne
+347,64,81,37,,66,2008,1989,true,true,,Aş Şanamayn,Solna
+348,97,7,42,,82,2000,2005,false,false,,Marquard,Venustiano Carranza
+349,91,27,85,,48,2004,2010,true,false,,Weiyuankou,Emiliano Zapata
+350,45,15,6,,25,2012,,true,true,,,Lamotrek
+351,76,55,46,70,4,2004,2005,true,true,,,Mekarsari
+352,26,60,15,,98,2006,1988,true,,,Baiquan,Krajan Selatan
+353,75,6,61,39,54,2010,1993,true,false,,Rotterdam postbusnummers,Darvi
+354,5,,45,,,2008,2007,true,,,Penglai,Dishnā
+355,7,64,15,37,27,2003,2004,false,true,,,Księżpol
+356,77,22,92,41,47,2000,1997,false,true,,Pandansari,Hougong
+357,18,25,32,,68,2006,1997,false,false,,Nagasari,General Vedia
+358,57,100,79,86,1,2012,2004,false,false,,Colomiers,Reguengos de Monsaraz
+359,18,95,71,,43,2002,,true,,,Roanne,Sukorambi
+360,12,44,14,,55,1994,1999,false,,,Checun,Jiaoqi
+361,29,38,35,,23,2008,2012,true,,,Buracan,Dakoro
+362,80,39,69,2,35,2009,2013,false,true,,Saint Hubert,Yingta
+363,24,52,55,,89,2005,2010,true,false,,Zilang,Kamenjane
+364,29,82,49,,35,2004,2004,false,true,,Duishan,Dū Laīnah
+365,3,56,2,98,67,2004,2012,true,,,Pojan,San Manuel
+366,3,4,88,,40,2011,2003,false,false,,Kashar,Antipolo
+367,15,,94,,72,1986,,false,true,,Van Nuys,
+368,56,13,50,2,35,1993,2010,true,false,,Trelleborg,Zhenyuan
+369,,,74,,71,2012,1993,true,false,,Popovo,Huwan
+370,88,77,38,,87,2003,2004,false,false,,Yono,Pucangkrajan
+371,38,,34,10,70,2008,2003,true,,,,Kangin
+372,25,77,19,19,44,1994,1988,false,false,,Potęgowo,Narowlya
+373,8,20,18,87,69,1998,1992,false,true,,Sabang,Saray
+374,58,,87,,57,1993,2006,false,,,Palca,
+375,40,6,100,,49,2008,1997,true,,,Novaya Usman’,
+376,90,,52,,24,2003,2011,true,true,,Puerto Francisco de Orellana,Talas
+377,91,51,43,,85,2003,1996,true,,,,Betulia
+378,99,88,53,,53,1995,2009,false,,,Svitlovods’k,Yako
+379,,13,47,16,57,2012,1984,true,false,,Ishikawa,Paleran
+380,7,87,48,,92,1989,,true,false,,Tlogocilik,Dogonbadan
+381,37,77,16,13,5,1992,1989,,true,,,Altagracia de Orituco
+382,52,33,33,,66,2007,2002,false,false,,Pepe,Depapre
+383,44,28,27,,8,1985,,true,,,Caldelas,Qinnan
+384,53,47,82,,85,2012,2011,false,true,,Malalag,Niechanowo
+385,87,,55,84,76,2000,2006,true,true,,Xiaochuan,Imeni Zhelyabova
+386,63,26,71,,18,2009,1998,true,false,,Yerofey Pavlovich,
+387,75,77,60,,85,2010,2002,false,true,,Tabuaço,Arcachon
+388,32,95,54,76,8,2009,1987,,,,Yangjia,Guaíba
+389,56,7,38,17,99,1995,1996,true,false,,Broska,Bringinanom
+390,32,94,1,,48,1992,1993,false,false,,,Ban Lŭng
+391,22,46,21,,43,2007,1990,true,true,,Razgrad,Layo
+392,,,13,,94,2000,1991,false,,,,Sucre
+393,92,59,81,,28,2006,2009,,false,,Dadoupu,Woippy
+394,5,56,57,,45,1999,2004,true,false,,Rivesaltes,Wangzha
+395,25,45,11,,86,1993,2000,false,,,,Nekrasovka
+396,84,,10,59,71,2007,1996,false,false,,Bulasa,Palkovice
+397,43,69,66,61,25,2012,2006,false,,,Pahārpur,Villa Urquiza
+398,61,,77,,4,1963,1995,true,,,Pouébo,Sundbyberg
+399,51,81,23,38,57,2011,2006,true,false,,,Pa Tio
+400,25,5,93,94,38,1998,1985,true,true,,Boyany,Macon
+401,44,61,55,98,31,2001,,,false,,Jatinagara,Tirana
+402,20,,31,,95,2010,2007,false,false,,Tignapalan,Senduro
+403,39,62,82,56,95,1997,,false,,,,Sanjiang
+404,90,86,4,17,36,2005,2008,false,false,,Rennes,Sandachō
+405,5,25,63,,77,2003,2008,true,true,,,Uga
+406,38,95,51,,26,2002,,true,,,,San Juan del Cesar
+407,41,78,62,,81,2004,2008,true,true,,Manaloal,Ribnica na Pohorju
+408,50,,59,100,80,2012,,true,false,,Volochys’k,Zerkten
+409,2,23,37,,62,2002,1997,,false,,Pereiros,Pokrovskoye
+410,97,41,67,,53,1992,2011,,true,,Waipukang,Göteborg
+411,6,29,67,,,2002,2004,true,false,,Winburg,Wangtai
+412,91,96,63,78,65,1993,2004,false,false,,Olyka,Sakai-nakajima
+413,,40,67,,20,2011,,true,true,,,Parigi
+414,62,76,14,73,96,2008,2010,false,true,,Carvalhos,Governor’s Harbour
+415,6,42,40,17,30,1988,2007,false,false,,Granada,Notre Dame
+416,15,,42,49,37,2012,2002,true,,,Netanya,Lospalos
+417,35,52,10,52,52,1994,2011,true,false,,Banjiang,Tizguine
+418,61,38,91,48,32,2012,2008,false,,,Örbyhus,Nevers
+419,,,12,,39,1994,1990,false,true,,,Yên Lập
+420,,55,38,45,34,2012,,false,false,,,Nancheng
+421,60,17,60,,25,2009,2012,true,true,,Trollhättan,Houjiagang
+422,98,86,35,59,68,2000,2011,,false,,Agoncillo,Calimita
+423,9,,17,,70,2005,1996,true,true,,Santa Cruz,Wangdun
+424,28,50,34,,11,2006,1996,true,true,,Parkent,Gornje Živinice
+425,43,,32,73,99,2006,2003,false,,,Norrtälje,Urkarakh
+426,,4,100,43,65,2002,1998,true,true,,Moravský Beroun,Bluff
+427,23,,68,34,94,1992,2002,true,true,,Nekhayevskiy,Beisijia
+428,88,11,21,63,57,2001,2001,true,true,,Qingshan,Acobambilla
+429,3,32,62,,49,2010,1989,true,false,,Kefar Shemaryahu,
+430,6,98,40,37,68,1998,2002,true,,,Bandaragung,Strellc i Epërm
+431,24,69,11,,14,2005,2010,true,false,,Rancanyenang,Rejanegara
+432,93,90,52,96,30,1992,,false,,,Springfield,Sabugal
+433,41,31,4,65,60,2011,,false,true,,Al Jubayhah,Twyford
+434,72,74,13,34,50,1997,2012,true,false,,,Suicheng
+435,30,,40,,83,1999,1996,true,,,Or Yehuda,Pochayiv
+436,,,41,1,,2009,2007,true,false,,Hūn,Malvern
+437,95,,87,50,48,2009,1995,true,,,Tofol,Agen
+438,,56,21,73,91,2004,2009,false,false,,,Vasylkiv
+439,4,,49,96,37,2003,,false,false,,Kukoboy,Tarbes
+440,,92,12,64,71,1996,2011,true,false,,Danyang,Cali
+441,5,,53,,53,1993,2009,true,true,,Khāsh,Almeirim
+442,87,48,13,81,,2000,1994,false,true,,,Szprotawa
+443,57,92,14,49,32,2009,1999,false,true,,Balas,Gjirokastër
+444,73,89,32,,39,1997,2004,true,,,Emmaboda,Jongīyeh
+445,100,,96,1,3,2003,2011,true,false,,Khānewāl,Gahe
+446,67,44,51,,68,1993,2007,false,false,,Lakeland,Psachná
+447,86,99,49,,21,2008,2009,false,true,,Ampanihy,Pamanukan
+448,75,,38,70,1,1997,1990,false,false,,Little Baguio,Kiboga
+449,24,74,15,,66,2001,2005,true,false,,Ōmihachiman,Bagakay
+450,48,8,99,9,40,1993,2009,false,false,,Uchaly,Shōbu
+451,89,,8,39,66,1999,2008,false,true,,Pariti,Singojuruh
+452,95,3,5,,26,2000,2011,false,false,,,Dongjiahe
+453,83,23,12,,59,2003,2012,false,true,,Vyshhorod,Wangshi
+454,37,3,25,60,81,1988,2008,true,true,,Shengtang,Triolet
+455,21,,58,13,5,2010,2006,true,,,Nongoma,Mniszków
+456,23,52,35,51,39,2010,2008,true,false,,Angren,Varna
+457,,42,92,81,44,1994,1996,true,true,,Yixingfu,Jindayris
+458,2,,50,37,46,1994,2004,false,true,,Rifeng,
+459,12,6,24,53,91,1999,2006,true,,,Chaloem Phra Kiat,Veracruz
+460,7,77,50,,19,2005,1999,false,false,,Best,Sanshengyuan
+461,38,44,34,95,79,1994,2007,false,false,,Londres,Naranjito
+462,34,81,97,18,72,1993,,true,,,Ise,Kidatu
+463,1,15,21,,52,2006,2003,true,false,,Bruzual,Xieqiao
+464,46,68,95,,86,2005,2005,false,false,,Antsohimbondrona,Kirovsk
+465,79,69,46,,76,1992,2007,false,false,,Berlin,Betafo
+466,62,83,61,,48,2003,1958,true,true,,San Clemente,Fuying
+467,84,,86,,57,1983,2001,true,true,,Xinxian,Paoay
+468,82,10,74,,5,2002,1994,true,true,,Obryte,Heshui
+469,,84,9,70,39,1996,2003,false,true,,Shuakhevi,Londres
+470,76,95,82,,44,2001,2001,true,false,,,Montería
+471,20,36,97,,12,2007,2006,true,,,Anápolis,Morris
+472,41,,24,94,90,1977,2002,false,false,,,Konstantinovskoye
+473,47,88,89,,39,2012,1985,false,true,,Conceição do Araguaia,Wanfa
+474,97,42,65,68,71,2012,2008,false,,,El Paraiso,‘Izrā
+475,50,,21,59,15,2007,2001,true,true,,Romanovo,Jacaltenango
+476,3,10,95,72,,1999,1996,,,,Miskolc,Taldom
+477,8,,12,89,72,2003,2002,false,false,,Lalapanzi,Artemivs’k
+478,28,,39,,35,2007,1994,false,false,,Houndé,Jimaguayú
+479,33,79,88,,75,1990,1984,,,,,Springfield
+480,35,,96,65,32,2006,2001,true,,,Buenavista,San Luis
+481,7,,71,,79,2012,2005,false,false,,Xinó Neró,Tumpang
+482,26,50,24,,10,2007,1997,true,,,Monze,Dongmafang
+483,2,89,23,97,91,2009,1994,,false,,Acobambilla,Chapayevka
+484,15,53,76,42,80,1988,2005,true,true,,Fengmen,Castlebridge
+485,95,28,65,95,71,2012,1999,true,true,,Inkerman,Hīrna
+486,43,76,59,,70,1994,2001,false,true,,Motupe,Saint-Claude
+487,35,,59,32,42,2000,,false,false,,Uiasa,Buur Gaabo
+488,74,49,18,50,53,1992,1992,false,true,,Wakapuken,Granard
+489,92,10,87,2,24,1972,2006,,,,Pocpo,Czerwionka-Leszczyny
+490,,38,72,,64,1993,1997,false,true,,Maszewo Duże,Sanli
+491,1,54,55,,66,2003,1999,true,true,,Matarraque,Ghāro
+492,100,23,62,,1,1984,2002,false,,,Ananea,Nogent-sur-Marne
+493,2,81,55,,53,2011,2000,false,false,,,Angoulême
+494,67,38,43,,58,2012,,false,false,,Pilaya,Kiloloran
+495,19,,60,43,87,1992,2003,false,true,,Sidi Bouzid,Fort-de-France
+496,90,88,26,26,99,2012,2007,,false,,Druzhba,Sulaco
+497,36,,41,82,80,1999,1992,,false,,Créteil,Lannion
+498,18,88,69,,42,1996,2010,false,,,Paccho,Akhaldaba
+499,3,78,65,34,50,2004,1987,true,true,,Ágios Efstrátios,Rancaerang
+500,41,87,100,,,1997,1995,true,true,,Camajuaní,Kępno
+501,38,,69,,79,2012,1991,true,false,,Providencia,Daguma
+502,8,13,9,50,75,2009,2009,true,false,,Luleå,Amucao
+503,96,,12,,49,1990,2005,true,,,Mayanhe,La Cueva
+504,83,37,29,,87,2001,1986,true,true,,Viga,Mariinsk
+505,8,52,94,75,2,1998,2003,false,true,,,Tha Tako
+506,27,44,8,,62,1992,2012,false,true,,,Xiekou
+507,58,1,41,,28,2002,1996,true,,,Gubengairlangga,Amqui
+508,28,23,61,26,26,1999,2003,true,false,,Tazouta,Far‘ūn
+509,,54,35,,37,2009,1993,false,true,,Mangxing,Biltine
+510,34,82,18,62,10,1991,2008,false,false,,Bárrio,
+511,74,,22,,77,2008,2009,false,true,,Laiwu,Ecilda Paullier
+512,93,68,34,93,47,2011,1994,false,false,,Tianbao,Jatisari
+513,71,,99,44,29,1999,2008,true,false,,Waingapu,Gereshk
+514,35,36,42,,4,1995,2011,false,true,,Shahbā,
+515,57,47,79,,23,2001,1999,true,true,,Lizhuangzi,Arles
+516,18,21,93,4,24,2001,2012,false,,,Guinoaliuan,Kasese
+517,95,68,73,46,53,1993,2006,true,true,,Płoniawy-Bramura,Antonina
+518,13,30,37,,47,1992,2009,true,true,,Dobrica,
+519,,56,2,53,62,1995,1996,false,true,,Kebonjaya,Gaozhai
+520,71,,86,,52,2003,,,true,,Jinrongjie,Gafargaon
+521,48,17,44,,83,2000,2005,true,false,,Nevel’sk,Zhoukoudian
+522,30,70,87,,60,1999,2009,false,true,,Chicago,Rongxing
+523,56,78,19,25,33,2006,1999,,true,,Hernani,Armação de Búzios
+524,94,62,64,11,43,2000,2002,false,false,,Jinlong,Luruaco
+525,52,10,35,63,99,1998,1985,false,,,Fangyan,Osiek nad Notecią
+526,94,64,69,,63,2000,2013,true,false,,Croix,Manzini
+527,,8,100,,47,2000,,true,true,,El Charco,Pingshan
+528,71,98,63,85,4,2010,2006,,,,Haarlem,Tønsberg
+529,,41,12,95,19,2012,2002,true,,,Cereté,Graikochóri
+530,70,83,6,,26,2001,2004,false,true,,Selaawi,Harnoli
+531,99,64,10,35,54,2007,,false,false,,Novospasskoye,Franceville
+532,,93,81,33,,2009,1991,,true,,Peseng,Dengyue
+533,43,44,62,83,55,1997,2002,true,true,,Gaoyang,Karsin
+534,78,33,56,91,72,1997,2010,true,false,,Lope de Vega,Kaminoyama
+535,,40,12,78,11,1995,1999,false,true,,Trới,Sattahip
+536,26,21,55,,37,1990,1993,true,,,Ljukovo,Pervomaysk
+537,90,50,86,,5,2008,1999,true,,,Barra de São Francisco,Wangqinzhuang
+538,99,6,39,,28,1993,,false,,,Oubei,Hulitu
+539,97,54,3,42,69,2011,2004,false,,,Kajatian,Yuantan
+540,15,,19,78,39,2009,2011,false,false,,Cuauhtemoc,Comitancillo
+541,74,68,85,,78,2009,2006,true,true,,Horní Jelení,Novaya Derevnya
+542,79,,6,29,92,1986,2012,true,,,,Ouaoula
+543,80,13,26,,62,1997,,,false,,Mont-Saint-Aignan,Veghel
+544,33,74,61,55,67,1996,2010,false,false,,Roanoke,Fuyang
+545,76,,21,,7,2002,1987,false,,,Desa Margaluyu,Jiangna
+546,24,3,69,,89,2009,1988,false,false,,Xinchengpu,Atalaia
+547,96,69,53,13,37,2012,2012,true,true,,Zaki Biam,Emiliano Zapata
+548,34,82,64,,27,1998,2010,false,false,,Tinalmud,Kovdor
+549,50,6,90,20,27,2002,1984,true,true,,Bandar ‘Abbās,Batad
+550,,58,89,76,45,1988,2010,false,,,Praia Grande,Parnamirim
+551,81,,30,,17,2002,1999,true,,,,Serzedo
+552,,46,73,68,14,2012,,false,true,,Kafr ad Dawwār,Łętownia
+553,42,,79,96,27,2006,2008,true,false,,Fīrūzābād,Ongi
+554,13,79,81,,56,2006,1994,true,,,Chaoyang,Jaworze
+555,,66,3,64,14,2010,2012,false,,,Mae Lao,Basīrpur
+556,9,85,56,96,49,1999,,false,,,Kochevo,Waxi
+557,35,85,63,,100,1992,2005,false,true,,Sandao,Kodra
+558,53,,50,,22,2009,,false,false,,Hämeenkoski,Ximei
+559,94,63,17,,18,1997,1986,true,false,,,Jiedu
+560,13,,70,94,36,2006,1985,false,false,,,Babakan
+561,98,,89,,86,1997,,true,false,,,Novhorodka
+562,97,,4,,87,2006,1992,false,true,,Bugarama,Combapata
+563,87,55,24,2,82,1998,2010,false,,,Hengduo,Bouaké
+564,69,50,71,,54,2010,2011,false,true,,Sosándra,Fencheng
+565,53,,43,83,11,1995,2012,true,false,,Pitanga,Malummaduri
+566,,33,4,,56,2011,1988,true,true,,Shimoda,Negotino
+567,,51,68,67,37,2011,2003,,true,,Jibu,Yongfeng
+568,18,,98,95,62,2012,2006,false,true,,Minador do Negrão,San Antonio
+569,,,38,95,46,1997,1996,,false,,Suzano,Łubnice
+570,,27,54,82,17,2010,1992,false,true,,Longhua,Gyangqai
+571,6,26,55,,73,1990,2005,false,true,,Cherga,
+572,,89,30,,75,1979,2010,,,,Keyi,Weiqi
+573,40,87,46,,87,2003,2012,true,false,,,Old City
+574,8,29,59,99,19,1984,,true,true,,Monkstown,Buy
+575,31,39,37,,81,2009,2010,true,,,Sannikovo,Lukou
+576,41,90,65,11,99,1994,1996,true,true,,Ringinrejo,
+577,60,,95,67,79,2011,2012,true,true,,Losevo,Yishan
+578,39,63,18,,,1992,2002,,true,,Fyllingsdalen,
+579,18,41,68,39,77,2001,2001,true,false,,,Tongjiaxi
+580,69,45,50,,9,1995,2012,true,,,Shoushan,Tudela
+581,35,90,9,,19,2003,2011,false,true,,Selydove,Liushikou
+582,66,34,37,64,6,2005,1997,false,false,,Angoulême,Wyszki
+583,41,16,70,,54,2008,1996,true,true,,Zimovniki,Psychikó
+584,22,54,48,,3,1989,1997,true,true,,Dunyāpur,Matayumtayum
+585,10,74,72,,19,1981,2011,true,true,,Wola Uhruska,Yangjian
+586,95,100,80,33,84,1994,2007,false,,,Metz,Jeffrey’s Bay
+587,,3,11,92,2,1992,2003,false,false,,Kedungbang,Rawaglagah
+588,6,28,4,,8,1995,2002,true,true,,Oele,Xuanhuadian
+589,37,,73,,34,1989,2011,true,false,,Kario,Campina Grande
+590,57,,33,53,14,2007,2001,true,false,,Joal-Fadiout,Lukou
+591,27,,37,19,84,2012,1996,true,false,,Renhe,
+592,12,75,80,78,,1990,1999,true,false,,Shuangshi,Taywanak Ilaya
+593,3,48,31,,79,1993,,false,false,,Padina,La Motte-Servolex
+594,26,57,44,14,91,1996,2007,false,false,,Sembalunbumbung,Ogwashi-Uku
+595,94,64,80,,40,1997,,true,true,,,Casal de São João
+596,79,67,54,29,93,2005,2010,false,true,,,Biliran
+597,81,92,58,75,40,1995,2011,false,true,,Calape,Ferreira do Alentejo
+598,74,22,85,,88,2008,2002,false,true,,Katunayaka,Lepoglava
+599,70,72,97,,7,1989,1998,true,false,,Gunungkencana,Maluso
+600,56,15,33,,44,1992,2004,false,true,,Fukura,Trbovlje
+601,62,,35,55,88,2007,1993,false,false,,Luisiana,Novokayakent
+602,43,56,86,,80,1999,1960,true,true,,Qiulu,Paraíso
+603,82,19,57,,21,1999,1999,true,true,,Murça,Carandaí
+604,,,63,,98,1992,1997,false,,,,
+605,60,55,73,83,15,2007,1990,true,true,,,Opinogóra Górna
+606,78,82,74,,14,2004,2000,true,false,,Meghrashen,Ngenden
+607,58,,93,,89,1995,1990,false,true,,Bahorí,Hongtang
+608,66,,50,,17,2010,,,true,,,
+609,47,,26,,61,2007,2012,true,false,,Bengubelan,Ipoti
+610,89,,61,,82,1998,1984,false,true,,Santo Domingo,Xinchengzi
+611,,,26,,84,2010,1994,false,,,Roche Terre,Cortiçóis
+612,61,15,40,27,42,1995,,false,false,,Kortkeros,Ocumare del Tuy
+613,78,31,79,44,39,1985,2004,false,,,Karanganyar,Kovdor
+614,86,63,17,,17,2006,1995,false,false,,Napu,Busilak
+615,17,92,37,,33,1984,,false,,,Ampeleíes,Reguengos de Monsaraz
+616,88,80,63,,39,2003,1996,,true,,Sanying,Fray Bentos
+617,78,27,93,,23,1995,2001,false,true,,,Kolyshley
+618,100,76,52,94,37,1997,,true,true,,Bansko,Bibirevo
+619,63,20,6,24,18,1998,1995,true,false,,Selianítika,Rennes
+620,62,32,49,77,82,2001,2005,true,,,Wangping,Trelew
+621,23,15,31,,9,1998,1994,false,true,,Kabare,Donskoye
+622,53,86,2,,28,2002,1997,false,,,Paraiso,Champerico
+623,29,12,97,,30,2001,1995,true,true,,Hepingyizu,Cimara
+624,82,67,45,28,51,2001,1986,true,false,,Osasco,Xinchengpu
+625,77,73,89,,39,2008,2011,false,false,,Buenavista,Xiangrong
+626,45,94,52,31,47,1998,2004,false,false,,,Portela
+627,26,5,21,,71,2010,2012,false,true,,,Yanjiatai
+628,,,4,,44,2004,1996,true,true,,,Zselickislak
+629,24,36,7,82,23,2000,2011,false,,,Enhe Hada,Mae Lan
+630,22,,41,,72,1986,2009,true,,,Pederneiras,Changfa
+631,100,69,36,,71,2006,2007,false,,,Niederanven,Conde
+632,45,15,77,,71,1984,2009,false,false,,Yamkino,San Eugenio
+633,61,70,94,,56,2007,2008,true,,,Berthierville,Nankai
+634,37,77,69,,17,1988,1998,false,true,,Taiyang,Rio Claro
+635,90,,29,,9,1994,1993,true,true,,Setro,
+636,99,81,78,,100,2001,1993,true,false,,Bohai,Champerico
+637,97,,11,67,33,2011,,false,false,,Quichuay,Helsingborg
+638,26,,97,,35,1995,1987,true,true,,Qingshui,Arapongas
+639,25,76,58,,40,2009,2007,,,,Chernivtsi,Tostado
+640,98,,78,21,22,2012,2004,true,true,,Lyasny,Xuanma
+641,8,52,97,,53,1991,1992,true,false,,Ålesund,Jingdezhen
+642,62,71,48,,33,1998,1984,true,false,,Tsukuba,
+643,80,30,87,,85,1997,1977,true,true,,Dajie,Mayisyan
+644,23,79,13,26,61,2003,2001,,,,Haninge,Dodoma
+645,66,29,36,94,52,2000,2005,false,false,,Strawczyn,Shatura
+646,86,55,81,20,97,2006,2010,true,false,,Famaillá,Fontenay-sous-Bois
+647,37,61,89,41,73,1988,2013,false,false,,Ala-Buka,Đức Phong
+648,23,,2,,77,2000,2005,false,true,,Moravská Třebová,Vostochnyy
+649,52,42,39,71,74,1993,2006,false,,,Rivière-du-Loup,Leceia
+650,26,,72,,20,1996,2000,,true,,Zhuhong,
+651,17,53,26,,79,1984,1993,true,false,,Philadelphia,Ashikaga
+652,29,29,58,59,95,1995,2007,true,false,,,
+653,,16,38,,22,2006,2008,false,true,,Narbonne,Varpaisjärvi
+654,46,41,3,,91,1994,2006,true,false,,Batouri,Nyahururu
+655,25,74,95,50,35,2002,2012,true,false,,Vir,
+656,40,,55,37,49,2006,1980,true,true,,,Ilihan
+657,12,29,86,,51,1999,,true,false,,Peixing,Palanas
+658,33,99,15,98,76,1998,1994,false,true,,Pajung,Wawa
+659,89,13,83,,7,1994,1992,false,true,,,Pulau Pinang
+660,100,32,1,,61,1987,2007,false,false,,Omaha,Ábrego
+661,96,,85,,82,1994,2003,true,false,,Chinchero,Perpignan
+662,84,71,91,,23,1986,2009,false,true,,Selínia,Ligonggang
+663,79,2,20,9,23,2007,1999,false,false,,Resplendor,Huagu
+664,68,29,65,91,92,1993,2011,true,false,,Warmare,Dornava
+665,73,46,86,,43,2006,1998,false,true,,Qingsong,Mitrovicë
+666,3,29,75,,95,2008,1994,true,true,,Oelaba,Lluka e Eperme
+667,51,90,96,,10,2004,2005,false,,,Luziânia,Juupajoki
+668,69,,68,59,43,2003,,false,false,,Chiguang,Sepulu
+669,23,,47,96,42,1994,1996,true,true,,Botlhapatlou,Hobscheid
+670,57,90,96,9,52,2006,2009,false,true,,Ts’khinvali,Boyuibe
+671,64,47,76,,38,1967,2007,true,true,,Jinshan,Fuwah
+672,38,57,72,,42,2009,2009,false,,,Las Flores,Tianning
+673,79,,23,,1,2008,2006,false,,,Houston,Adzopé
+674,93,86,95,1,61,1986,2004,true,true,,Plato,Caotang
+675,3,40,57,,90,2011,,false,false,,Donja Dubica,Jetak Kulon
+676,91,,90,25,12,1992,2011,false,false,,Vailoatai,Pangalangan
+677,45,88,83,,98,2001,,,false,,Charlotte Amalie,Zalanga
+678,34,59,65,,93,2008,2009,true,false,,Qingyun,Lyskovo
+679,23,97,44,,50,2007,1992,,true,,Sudislavl’,Eauripik
+680,32,,90,85,,1993,2009,true,true,,Longmen,Périgny
+681,,,53,,21,2000,2005,true,false,,Dongqinggou,Marija Bistrica
+682,41,,13,48,,1996,1995,false,true,,Pashkovskiy,Shimokizukuri
+683,78,48,62,46,32,1992,,true,false,,Rio das Ostras,Dandu
+684,70,,79,26,93,2008,1992,,,,Airmata,Al Buţayḩah
+685,39,,45,,88,2012,1985,true,,,Bojadła,Huangshi
+686,21,81,39,,63,2010,2011,,true,,,Shënmëri
+687,45,42,92,,52,2003,2002,true,false,,Payapa,Spas
+688,60,20,36,,44,1993,1999,true,,,Sanjwāl,Jincheng
+689,97,,32,26,46,2001,1993,true,true,,Ankazoabo,Portela
+690,,38,90,,44,1993,2002,true,true,,,Rawang
+691,45,34,71,,13,1993,,true,,,Mainz,Phalaborwa
+692,41,32,3,87,26,2009,1990,true,true,,Tamarindo,Behbahān
+693,,,41,16,100,1995,1990,false,true,,Morelos,Niushou
+694,22,24,15,62,53,2006,1995,false,,,Berezayka,Ishim
+695,84,89,41,34,4,2007,2009,true,,,Sviblovo,Colca
+696,89,,11,,16,1996,2002,,false,,Ciénaga,Kfar NaOranim
+697,92,12,65,91,85,1988,1995,false,false,,Nuevo Arraiján,Sumberjo
+698,15,20,81,,11,2002,1992,false,false,,Poroj,
+699,88,42,97,36,100,2004,2010,true,true,,Singgit,Huzhen
+700,,20,7,28,27,2007,1993,true,false,,Orurillo,Étampes
+701,81,58,72,,93,1999,,false,false,,Avignon,Lordegān
+702,69,65,23,,76,2010,2009,true,true,,Sesheke,Balung
+703,32,,81,84,14,1986,2011,true,true,,,Edineţ
+704,59,,3,,45,2001,2002,true,false,,Niaojin,Yinghai
+705,71,62,89,17,15,1992,2001,false,true,,Ulme,Vale Maceiras
+706,82,39,44,,83,2001,2008,false,,,Agbor,Karangturi
+707,,,56,96,66,1999,2011,false,true,,Itapetinga,
+708,35,58,78,,58,2011,1993,false,true,,Zaragoza,Gemena
+709,12,60,53,,85,2001,1993,true,true,,Ishige,Ochobo
+710,74,,98,87,56,2001,2006,false,true,,Somita,Makiyivka
+711,17,87,98,81,34,1993,,false,true,,,Xiamujiao
+712,48,13,32,,36,2007,2010,true,false,,Oslo,Phú Vang
+713,1,3,43,,35,1993,1997,false,true,,Hājīganj,Séléa
+714,38,24,16,,34,2012,2000,false,false,,Bakuriani,Matangshan
+715,77,81,92,,33,2005,1997,,false,,Kuvshinovo,Wręczyca Wielka
+716,86,8,42,89,51,2002,2001,true,,,Jatinagara,Muaratiga
+717,78,80,45,46,4,1984,2009,true,true,,Mankono,Kobryn
+718,47,76,59,87,57,2006,2001,true,true,,Saint-Denis,Phalaborwa
+719,78,68,47,,74,2003,2002,true,false,,Altuf’yevskiy,Västerås
+720,30,26,66,38,83,2001,2011,true,false,,Takaoka,Empedrado
+721,73,64,50,,50,1993,1997,true,true,,Ribeiro,Minnedosa
+722,85,74,14,24,17,1994,2003,true,,,Chortkiv,Narva
+723,16,6,79,,25,2010,,false,false,,Gora,Baishan
+724,97,7,61,34,94,2006,2000,true,true,,Gielniów,Burgau
+725,43,47,16,83,75,1992,2003,false,false,,Torrijos,Nato
+726,58,,47,,14,2006,,false,true,,Kresek,Rasshevatskaya
+727,42,,58,,60,2010,,false,true,,Shinaihai,Cikananga
+728,,28,39,,2,1993,2011,true,true,,Shanjiao,Trafaria
+729,37,,29,,67,2005,2002,true,false,,Shahumyan,Joutseno
+730,76,29,56,12,85,1992,2007,true,false,,Lijie,Tantu
+731,12,61,66,80,15,2005,1998,true,,,Kentville,Hafrsfjord
+732,7,47,63,38,16,2008,,false,,,Parlilitan,Sarnaki
+733,61,,16,27,11,2010,2009,false,true,,Rodionovo-Nesvetaiskoye,Xingshou
+734,5,,70,,68,2010,,true,,,,Touama
+735,53,,7,,10,2001,1999,false,,,Cabriz,Ibabang Tayuman
+736,74,,31,,15,2009,1997,true,,,Atlanta,Velyka Lepetykha
+737,,49,37,88,23,2010,1997,true,,,Moca,Lubowidz
+738,66,73,57,,87,1985,,false,true,,Dobre,Yuncheng
+739,25,77,94,,8,1999,,true,true,,Maskinongé,Hantsavichy
+740,56,85,52,,6,1995,1999,false,,,Brikama Nding,Kilcullen
+741,43,4,71,15,87,2012,1990,false,true,,Hua Sai,Kupahandap
+742,72,42,98,97,9,1987,1986,true,false,,Fréjus,Kastélli
+743,95,77,30,,61,2003,,false,false,,,Xinjiezhen
+744,98,46,84,,13,1998,,false,,,Eirado,Puricay
+745,14,66,80,,43,1999,1988,true,true,,Dorowa Mining Lease,Arnhem
+746,34,51,48,63,35,1985,2002,true,true,,Riachos,Xiaoying
+747,97,13,45,94,34,2005,,true,,,Czarne,Qingshui
+748,55,12,19,68,28,2002,1959,false,true,,Huangjia,Sawin
+749,52,,72,,6,2003,2007,false,false,,Linköping,Niaohe
+750,,9,45,,69,1995,2006,false,,,,Štore
+751,10,31,35,,,2002,1997,true,true,,Pasar,Melenki
+752,76,80,92,,8,2003,2004,true,true,,Sakhnīn,Millau
+753,59,56,18,22,10,2001,,,,,Mobile,Itapevi
+754,18,69,78,72,56,1995,,true,true,,Sandnes,
+755,2,,35,51,60,2011,2003,false,false,,Kiili,Taganskiy
+756,21,,19,31,22,1983,,,true,,Nang Rong,Thomazeau
+757,97,,54,,37,2011,,true,false,,Ashgabat,Huacao
+758,94,58,95,31,62,2005,1985,true,true,,Głogów Małopolski,Lubbock
+759,14,14,74,83,98,2005,2009,false,,,Nyköping,Liupai
+760,52,47,97,88,2,2003,2000,false,,,Peranap,Valongo
+761,63,28,44,,95,2008,1994,true,true,,Härnösand,Gwio Kura
+762,12,51,45,10,3,1997,2003,false,,,Paracambi,Krasnogvardeyets
+763,9,20,48,11,67,1998,,false,false,,Łopuszna,Paccha
+764,19,63,79,82,9,2009,2001,true,true,,Jāndiāla Sher Khān,Higetegera
+765,65,92,2,,,2010,2000,false,false,,Salawu,Iguape
+766,79,88,3,40,85,2007,1969,true,true,,Buga,Sampungu
+767,41,,43,,20,2010,2004,true,false,,Kishkenekol’,Guarabira
+768,25,2,80,95,56,1995,2010,,false,,Homa Bay,Lijiaping
+769,14,59,65,31,42,2004,,true,true,,Fécamp,Daru
+770,,,79,67,52,1992,2006,true,false,,Siwa Oasis,Patzicía
+771,12,43,5,,39,1997,,false,false,,,Monte Leite
+772,14,,6,,42,2005,1995,true,true,,Lidingö,Ala-Buka
+773,9,,89,52,81,1986,1992,false,,,Makui,Wien
+774,19,,2,95,72,2005,1995,true,true,,Podporozh’ye,Hedong
+775,,75,92,,18,2006,1992,true,true,,Trinity,Bascaron
+776,1,97,30,,28,1993,1985,true,,,Faeanak Dua,Daulatpur
+777,6,32,45,,,1967,2009,false,,,Logroño,Dobra
+778,57,,14,90,95,1995,2000,false,false,,Nihaona,Guanqing
+779,93,81,70,,78,1992,1995,true,,,Duncan,
+780,41,82,34,87,32,2010,1992,false,false,,Banff,Khiliomódhi
+781,,6,26,,97,1999,1968,false,true,,Xinli,Bell Ville
+782,12,77,81,16,12,2011,1992,false,true,,,Nizhyn
+783,37,88,90,63,98,1994,2000,false,true,,,Andongsari
+784,91,45,39,63,,2011,2008,false,false,,Seixas,Losari
+785,,50,34,,28,1999,,true,,,Villa Ángela,Weekombaka
+786,95,27,96,5,41,2005,,true,false,,Lewopao,Werang
+787,27,76,11,,13,1983,1990,true,true,,Krasnoye,Wielka Wieś
+788,31,11,29,94,73,1998,,true,,,San Juan Bautista,Oslo
+789,17,67,76,,10,1997,1999,true,false,,Rancagadog,Ralevka
+790,45,72,100,,100,2007,1996,true,false,,Elói Mendes,Liběšice
+791,47,,37,48,24,1999,2010,false,false,,Las Flores,Pangkajene
+792,19,91,31,,17,1987,2003,false,false,,Vargem Grande Paulista,Ala-Buka
+793,86,72,4,24,28,1967,,false,false,,Arīḩā,Mora
+794,27,,5,57,93,2008,2008,false,true,,Hudong,Nantang
+795,,38,28,,14,1991,2004,true,true,,Pingshanhu,Pawłowiczki
+796,49,83,30,,13,1986,1996,true,,,Tandou,Tombu
+797,52,47,29,30,74,1985,1994,true,true,,Balengbeng,Pātan
+798,39,3,80,4,32,1998,1984,true,false,,Liqizhuang,Abū Sunbul
+799,22,,60,44,34,1990,2008,true,,,Sollefteå,Nam Som
+800,38,,36,,88,1993,1997,false,true,,Kokubu-matsuki,Tân An
+801,14,67,21,54,15,1991,2009,true,true,,Kunjāh,Fengshuling
+802,83,99,58,,75,1993,1985,false,false,,Koundara,João Monlevade
+803,47,53,33,70,9,1999,2005,,,,Valle de La Pascua,Laojunmiao
+804,86,,27,94,48,2001,1992,,,,Magomeni,Wielka Nieszawka
+805,13,41,9,97,3,2006,1997,true,,,Guitang,Pyra
+806,9,13,78,,16,2001,2012,true,,,Novopokrovka,Shuntian
+807,23,,6,,9,2000,2004,false,true,,Fuzhou,Halayhay
+808,64,66,14,,61,2001,2005,false,true,,Daixi,Banshu
+809,68,50,61,,48,2000,,true,false,,Gavea,Guayaybi
+810,98,74,7,9,18,2007,1993,true,true,,Huangshui,Kramarzówka
+811,97,36,83,1,32,2005,2013,false,false,,Sibulan,Colonia Neuland
+812,37,16,61,68,,1998,2012,false,,,Oslo,Alaghsas
+813,65,62,7,,4,1997,1983,false,false,,Askim,Huangli
+814,8,,96,,96,1995,2000,true,true,,Gengqing,Ribamar
+815,58,,67,40,27,2004,1988,true,true,,Baltasar Brum,Plavy
+816,42,77,43,,35,1986,2009,,false,,Trujillo,Panji
+817,38,35,56,67,40,2012,1992,true,,,Tsengel,San Juan de los Morros
+818,84,9,66,92,24,2008,1995,true,,,Sūrak,Ferreira do Alentejo
+819,3,17,35,6,4,1984,2002,false,true,,Bradenton,Gaoqiao
+820,37,83,30,70,75,2008,,true,,,Aygavan,Caojia
+821,,32,77,,82,2004,2006,false,false,,,Santiago del Estero
+822,11,59,40,,71,1998,1994,false,true,,Esquina,La Paz
+823,66,,67,3,20,1992,2009,true,,,Łapanów,Vancouver
+824,,85,80,,33,1994,1992,false,true,,Makar’yev,Kazo
+825,,77,44,26,2,2008,2002,false,false,,Huangmu,Fasi
+826,82,34,2,85,44,2008,1996,,false,,Junín,Nawá
+827,59,44,29,,21,2009,2000,true,,,Saint-Jean-de-Luz,Kinel’-Cherkassy
+828,34,77,83,,16,2004,1992,true,,,Buenos Aires,Tver
+829,,94,8,37,12,2004,2011,false,,,Popovice,Novopavlovsk
+830,1,78,90,83,17,1990,2011,,true,,Kabukarudi,Sitabamba
+831,30,,63,86,76,2008,1986,true,false,,Itu,Al Khushnīyah
+832,70,34,4,,4,1998,1999,true,false,,Angers,Linjiang
+833,4,82,13,,68,2012,2012,false,false,,Dadus,Delok
+834,39,44,45,52,31,2006,2010,false,false,,,
+835,51,93,86,56,38,2010,2006,true,,,,Entradas
+836,17,82,68,,43,2009,2011,true,false,,Kharkiv,Guohe
+837,83,68,51,90,7,1994,1996,false,false,,Ḩabbān,
+838,64,89,92,,46,1996,2011,false,true,,Mlawat,Monkayo
+839,90,28,50,28,27,2001,,false,true,,Néa Karváli,Villa Castelli
+840,25,69,15,,64,2003,1993,false,false,,Heshengbao,Sagbayan
+841,3,97,88,,45,2007,,true,true,,Novovoronezh,Yaoundé
+842,96,25,40,,58,2000,2001,false,true,,Alzamay,Campaka
+843,73,74,29,28,48,2001,,true,true,,Ipoh,Vishnyeva
+844,77,85,26,69,9,1994,2010,true,false,,Sarnaki,Kladno
+845,30,65,72,,24,2002,2012,,false,,Ouani,Včelná
+846,9,35,61,78,21,1994,2001,true,false,,Могила,Avlónas
+847,40,85,81,10,55,2002,1996,true,false,,Arras,Cisiec
+848,59,8,32,,71,1993,1996,true,,,Pangkajene,Bunobogu
+849,18,43,81,13,83,1992,1998,true,true,,Salas,Järfälla
+850,,10,93,,27,1991,2003,false,true,,,Valcheta
+851,44,,8,,51,1992,1993,false,,,Rejoyoso,Mariestad
+852,,,65,29,54,2001,2002,false,false,,Sypniewo,Shizunai-furukawachō
+853,63,69,36,,46,1996,2002,false,false,,,Bonriki Village
+854,80,91,100,87,62,2004,,true,true,,Baochang,Boli
+855,64,,14,,37,2002,1996,false,true,,,Houston
+856,91,79,43,,48,2007,2000,false,,,Ganfang,Shijak
+857,90,,99,82,99,2001,1992,,,,Changjiangbu,Dobropillya
+858,,29,73,25,30,1994,2006,true,true,,Spokoynaya,Rikitgaib
+859,100,50,87,69,8,1984,1997,false,,,Xinzhuang,Mandala
+860,49,85,82,7,,1992,2012,true,,,Gunungjulang,Echeng
+861,,7,8,,11,1995,2003,,,,Älvdalen,Taraju
+862,,56,1,100,36,2006,2004,false,,,Toshkivka,Brignoles
+863,69,23,55,32,76,2005,2003,true,false,,Nay Pyi Taw,Stavropol’
+864,20,72,69,,78,2001,,true,false,,Shangkuli,Sugihan
+865,13,31,8,56,41,2005,2011,false,true,,Xique Xique,El Hamma
+866,28,4,51,,57,2005,2002,true,false,,Toluviejo,Bakung
+867,79,89,72,67,13,1999,,,false,,Matsudo,Narganá
+868,90,82,98,99,70,1995,2008,false,true,,Arlington,Victoria
+869,73,65,79,,93,2001,2004,true,false,,Córdoba,Costa de Rios Frios
+870,94,61,83,79,15,1999,2012,true,false,,Santa Maria,Pires do Rio
+871,63,49,80,,45,2008,2003,true,false,,Veghel,Lago
+872,,82,29,,9,2006,2001,,,,Xiangfeng,Chlumec nad Cidlinou
+873,92,76,28,53,37,1989,1994,true,true,,Velykyi Bereznyi,Malabar
+874,14,71,40,34,68,2000,1988,true,false,,Barroco,San Isidro
+875,,43,33,90,8,1985,,true,true,,Hashaat,Sangzhou
+876,43,,36,32,79,1986,2001,false,false,,Beiyang,Orzech
+877,19,,92,,87,1994,1968,false,,,Hodošan,El Jem
+878,81,,72,,9,1966,,true,true,,Shenji,Brniště
+879,56,61,96,67,66,2002,2001,false,false,,Songbai,Mandala
+880,41,90,52,,9,2010,2010,false,,,Bobadela,Voiron
+881,,99,73,55,52,2002,1990,true,false,,Polen,Xujiadian
+882,13,11,47,81,70,1994,2012,true,false,,Karanganyar,Hingatungan
+883,,90,100,,91,1965,2003,false,,,Skawica,Lille
+884,61,6,81,,24,1997,2004,true,false,,Dolod,Espinho
+885,,62,37,22,51,2000,1998,true,,,Linköping,
+886,78,47,41,33,16,2008,2013,false,true,,Monte do Outeiro,Palhoça
+887,45,25,53,,59,1992,2006,false,,,,Niandui
+888,52,58,88,57,49,2004,2010,true,true,,Delicias,Ḩajjah
+889,75,,89,,28,1999,,false,true,,Hanna,Zhoinda
+890,86,,28,,13,2003,1996,true,true,,Drosiá,Karlovo
+891,37,65,97,34,67,2012,1999,true,,,Perpignan,Nukuoro
+892,53,78,37,78,90,1995,1986,false,true,,Zhangcun,Barbudo
+893,15,66,12,53,9,2002,2004,false,true,,Yekimovichi,Dame-Marie
+894,77,,25,,30,2009,,true,true,,Cabangahan,Rancaranji
+895,5,13,81,,69,1994,2000,false,false,,Biały Bór,
+896,61,89,85,,3,1992,2009,true,false,,,Kolyshley
+897,78,,76,89,,2009,2011,true,true,,Kapotnya,Carvalhos
+898,17,42,18,23,10,1998,,true,true,,Tigarunggu,Nong Khai
+899,20,43,77,,40,2001,2004,false,false,,Fiães,Seget
+900,25,92,14,,62,2008,1990,true,true,,,Shiyuan
+901,86,,29,33,91,2010,1999,true,,,Nāḩiyat Baḩār,Salantai
+902,9,,72,56,37,1997,2008,false,true,,Demba,Zelenograd
+903,,79,18,,55,2004,1997,false,false,,,Płoniawy-Bramura
+904,58,84,90,,48,1998,,,,,Tiandeng,Ponce
+905,97,41,42,,88,1963,2011,false,,,Ruen,Göteborg
+906,,,11,85,76,2012,2004,true,true,,Kālābāgh,Panglanjan
+907,75,25,100,,,1992,1995,true,,,,Stryków
+908,4,29,64,,81,2001,2011,true,false,,Melfi,Ińsko
+909,99,43,45,18,59,1995,,false,false,,Farnham,Huacachi
+910,,78,25,58,58,2007,2001,true,true,,El Cocuy,Văn Điển
+911,59,7,12,,65,1994,1987,true,true,,Boulsa,Canillo
+912,,22,23,,51,2010,1995,true,true,,Martensville,Tanjung Raja
+913,50,72,64,,21,1983,,false,false,,Shaochang,Kousséri
+914,42,,90,97,58,2001,2008,true,false,,Xinkai,Kawengan
+915,41,19,9,21,10,1987,2004,false,true,,,Quintã
+916,75,47,33,58,61,2012,2006,true,,,Shuangyuan,Huazhou
+917,52,20,14,,45,2005,,false,true,,Presidente Epitácio,Etinan
+918,13,60,18,,47,1993,1993,false,true,,Wotsogo,Chapecó
+919,,9,4,,97,2005,,true,true,,Amboasary,Ogoja
+920,88,,66,,95,1985,2002,false,false,,Lieyu,Imishli
+921,87,,51,74,13,2001,2005,,true,,Chico,Uiasa
+922,35,85,39,,52,1989,1997,false,true,,Moneghetti,Dimovo
+923,80,,94,90,34,2011,,false,true,,Charlesland,Castelo
+924,3,,17,,7,2011,2003,false,false,,Freiburg im Breisgau,Shangdongjie
+925,64,70,74,52,11,2010,1996,true,true,,Tampakan,Tianhe
+926,,,33,,59,1992,2005,false,,,Пласница,Helsingborg
+927,61,,51,31,73,1989,2005,,,,Kuntong,Serra de Água
+928,5,27,56,37,90,2007,1994,false,true,,Chengshan,Rengasdengklok
+929,,72,14,,73,2000,1993,true,,,Azteca,Sukamaju
+930,40,8,95,81,81,2009,1998,false,false,,Eydhafushi,Kalchevaya
+931,5,,69,72,21,2011,2008,false,false,,,Skärholmen
+932,21,46,98,,55,2009,1992,true,true,,Liucun,Borovo
+933,45,85,77,24,35,2009,1996,false,false,,Yamaranguila,Dzoraghbyur
+934,36,60,4,30,34,1999,1994,true,true,,Dolice,Kingston
+935,42,46,15,90,76,1996,2010,false,,,Khust,Imari
+936,50,,35,98,99,2012,,false,,,Santo Niño,Santa Maria
+937,70,84,46,16,4,2011,2004,false,false,,Severnyy,Choropampa
+938,91,27,25,27,68,2011,1991,true,,,Medveditskiy,Zerkten
+939,65,91,66,,65,1989,1994,true,true,,Tampa,Tuscaloosa
+940,70,99,66,,71,2007,,false,,,Wangmang,Seka
+941,59,,68,66,44,1993,2010,,false,,Kuala Lumpur,Lau
+942,36,67,73,,48,1997,1993,false,false,,Kościerzyna,Wysoka
+943,28,28,57,,69,2003,1990,false,true,,,Pamplona/Iruña
+944,19,,29,85,100,2012,,true,true,,Cisewu,Paris La Défense
+945,64,94,49,,32,1997,2010,true,true,,Igreja,Palaiochóri
+946,11,56,34,44,37,1997,1998,false,false,,Bahorí,Peoria
+947,74,76,8,,8,2010,2007,true,false,,Zheleznodorozhnyy,Jinka
+948,85,100,93,,58,1995,2009,false,false,,Bayt ‘Īnūn,Ikhtiman
+949,43,,57,,56,2009,1994,true,,,Mardā,
+950,43,50,6,,,2001,,true,true,,,Fukui-shi
+951,11,60,14,,96,1995,,false,,,Topchikha,Monção
+952,70,14,57,,32,2006,,false,,,Yartsevo,Jetaral
+953,46,,80,38,69,1998,2003,false,false,,Frederiksberg,Madura
+954,,,85,,49,2011,2003,false,true,,Santa Clara,Yeniköy
+955,73,84,92,62,28,1996,2007,true,true,,Tevriz,Okakarara
+956,7,35,70,22,,2010,2013,,false,,Garland,Juiz de Fora
+957,12,9,23,2,17,1993,1989,,true,,,Fuchang
+958,34,60,46,29,43,2007,2009,true,,,Sanshan,Hengjing
+959,71,,94,,,2002,1995,true,,,Kamiennik,Kuty
+960,65,27,53,61,77,1989,2010,true,true,,Ngrejo,Kalapadua
+961,4,97,33,32,3,2012,2010,true,false,,Isfana,Kinna
+962,66,20,9,,4,1988,1992,true,true,,San Agustín,Umbulan
+963,85,83,33,25,35,2005,1997,true,false,,Wiśniewo,Krajan Bakalan
+964,78,18,98,,70,2000,,false,false,,Kināna,Saint Louis
+965,96,22,80,,76,2008,1994,true,,,Botevgrad,Baiyin
+966,97,23,82,,27,1998,2002,true,false,,Naranjal,Maquiapo
+967,97,55,93,81,91,1988,2005,true,,,Berlin,Lavandeira
+968,52,89,97,,8,2009,1994,,true,,Santa Cruz da Graciosa,Edson
+969,25,,56,,79,1978,2011,true,true,,Argelia,Shuanglong
+970,46,92,6,,100,2007,2012,false,,,El Paso,Soko
+971,,,38,,92,1986,2000,true,true,,Zhangcheng,Sibiti
+972,52,,14,,67,2003,1981,,false,,Kambove,Bojonggenteng
+973,,,7,25,75,2008,,false,,,Laranjeiras,Icononzo
+974,57,59,74,69,67,1974,1997,false,,,Mazongling,Murom
+975,40,,67,,53,2001,2007,true,true,,Minle,Roskoshnyy
+976,46,33,37,,97,1993,2012,true,,,San Bartolomé Milpas Altas,Hrádek
+977,6,25,30,55,83,2008,2000,false,false,,Nguken,Tabora
+978,82,,88,,25,2007,2008,true,false,,Postmasburg,Krajan
+979,43,36,67,39,59,1994,2006,true,true,,Yurovka,Pingxiang
+980,82,9,98,,99,1995,1990,true,true,,Bằng Lũng,Maceo
+981,74,,35,73,68,2001,2012,true,false,,Kara-Balta,Panaytayon
+982,56,39,6,83,21,1985,2000,false,true,,Zābolī,Ballsh
+983,71,68,3,,38,2002,2003,true,false,,Montecristi,
+984,63,65,81,9,45,2010,,false,false,,Łętownia,Xuezhen
+985,46,,76,,89,1995,2009,,false,,Jishan,Ożarowice
+986,97,41,35,34,48,1992,1998,,true,,Bayuwan,Cuispes
+987,41,49,86,55,85,2012,2007,false,true,,Battambang,Yangqiao
+988,99,4,2,,21,1997,1991,true,,,Zhendong,Sukaraharja
+989,74,83,79,10,45,1992,,false,false,,Benjamín Aceval,Cobre
+990,100,38,50,100,62,1999,2004,false,true,,Vitry-le-François,Longshan
+991,62,56,38,,30,1990,2004,false,false,,Rybatskoye,At-Bashi
+992,19,45,60,57,80,1997,1991,true,,,Boituva,Szolnok
+993,52,3,38,,69,1996,2007,false,true,,Bābol,Zbůch
+994,84,28,84,43,2,2010,2010,false,true,,Zhangwan,San Rafael Petzal
+995,24,,49,,79,1994,2003,true,true,,Chemin Grenier,Guihulñgan
+996,84,5,54,100,72,1986,2011,true,true,,Selopuro,Padre Las Casas
+997,29,87,88,78,97,1997,2012,,false,,Kerrobert,Jargalant
+998,98,47,3,78,92,1994,1988,false,true,,,Lidingö
+999,,,93,,40,1992,1993,true,true,,Jurovski Dol,Feni
+1000,66,,51,45,12,2011,2004,false,true,,Cibinong Satu,Krylovskaya
